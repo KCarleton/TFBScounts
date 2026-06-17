@@ -1,8 +1,8 @@
 ###################
 #
-#   Plot TFBS and count # for one transcription factor (TF) by sens or all TF by species
-#   
-#     KC Aug 2025
+#   Count # Transcription Factor Binding Sites (TFBS) for a set of species and a set of transcription factors 
+#   for sequences analyzed by JASPAR
+#     KC June 2026
 ###################
 #
 # Inputs:
