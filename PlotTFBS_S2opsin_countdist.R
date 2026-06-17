@@ -106,8 +106,8 @@ species_colors<-c("blue","cyan","lightblue","darkgreen","green","purple","pink",
 # and set up for the data folders and save folders
 
 if (Anal2do=="SWS2 promoter") {
-directory<-"~/_Cichlids/10Xsinglecell/_Paper_draft/Github/Opsin/SWS2data/"
-savedirectory<-"~/_Cichlids/10Xsinglecell/_Paper_draft/Github/Opsin/SWS2_count/"
+directory<-"~/yourdirectory/Opsindata/"
+savedirectory<-"~/yourdirectory/Opsinoutput/"
 suffix1<-"S2"
 suffix2<-"pro.txt"
 # some species have S2 gene and some have S2a gene - so add the extra "a" here
